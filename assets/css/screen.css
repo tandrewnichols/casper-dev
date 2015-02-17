@@ -351,8 +351,7 @@ pre {
 
 pre code, tt {
     font-size: inherit;
-    white-space: pre;
-    word-wrap: normal;
+    white-space: pre-wrap;
     background: transparent;
     border: none;
     padding: 0;

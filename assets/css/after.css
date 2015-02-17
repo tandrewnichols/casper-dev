@@ -57,5 +57,14 @@ p, ul, ol, dl {
 }
 
 a.tag:hover {
-  text-decoration: none;
+    text-decoration: none;
+}
+
+pre code, tt {
+    font-size: inherit;
+    white-space: pre;
+    word-wrap: normal;
+    background: transparent;
+    border: none;
+    padding: 0;
 }
